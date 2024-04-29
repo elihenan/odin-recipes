@@ -1,2 +1,2 @@
 # odin-recipes
-Learning HTML basics.
+Learning HTML basics. This is a very simple recipe page.
